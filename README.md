@@ -1,3 +1,5 @@
+![nginx 1.16.0](https://img.shields.io/badge/nginx-1.16.0-blue.svg)
+
 Forked from https://github.com/jwilder/nginx-proxy
 
 A new env varaible `ENABLE_ACME` is added to use acme.sh to generate free ssl cert from letsencrypt.
